@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Duetting Solo",
+  "base_artist": "Mili",
+  "createdAt": "2026-01-13T20:24:10.809160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Duetting Solo",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_Duetting_Solo_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "01 Duetting Solo",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_01_Duetting_Solo_Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Duetting Solo",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_Duetting_Solo_Mili.txt"
+    }
+  ]
+}
